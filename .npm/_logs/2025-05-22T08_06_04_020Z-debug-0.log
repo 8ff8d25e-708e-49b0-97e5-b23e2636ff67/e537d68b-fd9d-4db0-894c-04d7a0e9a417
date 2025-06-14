@@ -1,0 +1,32 @@
+0 verbose cli /usr/bin/node /usr/bin/npm
+1 info using npm@10.8.2
+2 info using node@v20.18.2
+3 silly config load:file:/usr/lib/node_modules/npm/npmrc
+4 silly config load:file:/tmp/tmp70vdqvgr/.npmrc
+5 silly config load:file:/notebooks/.npmrc
+6 silly config load:file:/etc/npmrc
+7 verbose title npm pack /extensions/vadalog-extension
+8 verbose argv "pack" "/extensions/vadalog-extension"
+9 verbose logfile logs-max:10 dir:/notebooks/.npm/_logs/2025-05-22T08_06_04_020Z-
+10 verbose logfile /notebooks/.npm/_logs/2025-05-22T08_06_04_020Z-debug-0.log
+11 silly logfile start cleaning logs, removing 1 files
+12 silly logfile done cleaning log files
+13 verbose stack Error: command failed
+13 verbose stack     at promiseSpawn (/usr/lib/node_modules/npm/node_modules/@npmcli/promise-spawn/lib/index.js:22:22)
+13 verbose stack     at spawnWithShell (/usr/lib/node_modules/npm/node_modules/@npmcli/promise-spawn/lib/index.js:124:10)
+13 verbose stack     at promiseSpawn (/usr/lib/node_modules/npm/node_modules/@npmcli/promise-spawn/lib/index.js:12:12)
+13 verbose stack     at runScriptPkg (/usr/lib/node_modules/npm/node_modules/@npmcli/run-script/lib/run-script-pkg.js:77:13)
+13 verbose stack     at runScript (/usr/lib/node_modules/npm/node_modules/@npmcli/run-script/lib/run-script.js:9:12)
+13 verbose stack     at /usr/lib/node_modules/npm/node_modules/pacote/lib/dir.js:41:14
+14 verbose pkgid vadalog-extension@3.0.0
+15 error code 1
+16 error path /extensions/vadalog-extension
+17 error command failed
+18 error command sh -c npm run clean && npm run build
+19 verbose cwd /tmp/tmp70vdqvgr
+20 verbose os Linux 6.1.134-152.225.amzn2023.x86_64
+21 verbose node v20.18.2
+22 verbose npm  v10.8.2
+23 verbose exit 1
+24 verbose code 1
+25 error A complete log of this run can be found in: /notebooks/.npm/_logs/2025-05-22T08_06_04_020Z-debug-0.log
