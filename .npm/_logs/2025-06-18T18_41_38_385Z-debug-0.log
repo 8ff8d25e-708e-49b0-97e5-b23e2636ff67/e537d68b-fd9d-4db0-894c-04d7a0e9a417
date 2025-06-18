@@ -7,8 +7,8 @@
 6 silly config load:file:/etc/npmrc
 7 verbose title npm run clean
 8 verbose argv "run" "clean"
-9 verbose logfile logs-max:10 dir:/notebooks/.npm/_logs/2025-05-21T12_43_30_132Z-
-10 verbose logfile /notebooks/.npm/_logs/2025-05-21T12_43_30_132Z-debug-0.log
+9 verbose logfile logs-max:10 dir:/notebooks/.npm/_logs/2025-06-18T18_41_38_385Z-
+10 verbose logfile /notebooks/.npm/_logs/2025-06-18T18_41_38_385Z-debug-0.log
 11 silly logfile start cleaning logs, removing 1 files
 12 silly logfile done cleaning log files
 13 verbose cwd /extensions/vadalog-extension
