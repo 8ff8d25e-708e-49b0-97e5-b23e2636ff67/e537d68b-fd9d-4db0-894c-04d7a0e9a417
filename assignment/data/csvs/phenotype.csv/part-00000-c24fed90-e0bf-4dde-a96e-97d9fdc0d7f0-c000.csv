@@ -1,0 +1,16 @@
+PhenoTypeId
+BMIOverweight
+BMIUnderweight
+BMIObese
+BMINormal
+Smoker
+NonSmoker
+LowBloodPressure
+HyperState2BP
+HyperStage1BP
+NormalBP
+PreHyperBP
+LowWaistToHipRatio
+LowBP
+HighWaistToHipRatio
+MediumWaistToHipRatio
