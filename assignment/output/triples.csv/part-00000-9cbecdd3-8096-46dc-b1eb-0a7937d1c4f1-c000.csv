@@ -142,14 +142,13 @@ Aldosterone,isPrecursorToName,"11b, 21-Dihydroxy-3,20-5b-Pregnan-18-al"
 "5beta-pregnan-21-ol-3,11,20-trione",isPrecursorToName,"5beta-Pregnane-3alpha,17alpha-diol-11,20-dione"
 "5beta-pregnan-21-ol-3,11,20-trione",isPrecursorToName,"5beta-pregnane-11beta,17alpha,20beta,21-tetrol-3-one"
 "5beta-Pregnane-3alpha,17alpha-diol-11,20-dione",isPrecursorToName,Cortolonic acid
-5beta-dihydrodeoxycorticosterone,isPrecursorToName,5beta-dihydrodeoxycorticosterone
 20alpha-Dihydrocortisone,isPrecursorToName,"5beta-pregnane-17alpha,20alpha,21-triol-3,11-dione"
 "5beta-pregnan-21-ol-3,11,20-trione",isPrecursorToName,Calcitriol
 "5beta-pregnan-21-ol-3,11,20-trione",isPrecursorToName,Estrone
 "5beta-pregnan-21-ol-3,11,20-trione",isPrecursorToName,Epitestosterone
 "5beta-pregnan-21-ol-3,11,20-trione",isPrecursorToName,18-hydroxycortisol
-Progesterone,isPrecursorToName,"5beta-pregnane-3,20-dione"
 Corticosterone,isPrecursorToName,5alpha-Dihydrocorticosterone
+Progesterone,isPrecursorToName,"5beta-pregnane-3,20-dione"
 "5beta-pregnan-21-ol-3,11,20-trione",isPrecursorToName,22R-Hydroxycholesterol
 Pregnenolone,isPrecursorToName,17-hydroxypregnenolone
 21-Deoxycortisone,isPrecursorToName,"4-Pregnene-17alpha,20alpha-diol-3,11-dione"
@@ -184,8 +183,8 @@ Cortisol,isPrecursorToName,Glucuronides
 "5beta-pregnan-21-ol-3,11,20-trione",isPrecursorToName,Androstenedione
 "5beta-pregnan-21-ol-3,11,20-trione",isPrecursorToName,"4,5beta-Dihydrocortisone"
 5beta-Dihydroaldosterone,isPrecursorToName,Tetrahydroaldosterone
-18-oxocortisol,isPrecursorToName,18-oxo-dihydrocortisol
 Cortisol,isPrecursorToName,"5beta-pregnane-3,20-dione"
+18-oxocortisol,isPrecursorToName,18-oxo-dihydrocortisol
 Cortisol,isPrecursorToName,5alpha-Dihydrocortisol
 Tetrahydrocortisol,isPrecursorToName,11beta-Hydroxyetiocholanolone
 11-deoxycorticosterone,isPrecursorToName,5beta-dihydrodeoxycorticosterone
@@ -275,6 +274,7 @@ Tetrahydrocortisone,isPrecursorToName,11-Ketoetiocholanolone
 11-Deoxycortisol,isPrecursorToName,Cortisol
 Cortisol,isPrecursorToName,"11b,17a 21-Trihydroxy-5bPregnane 3,20-dione"
 20beta-hydroxycortisol,isPrecursorToName,"5beta-pregnane-11beta,17alpha,20beta,21-tetrol-3-one"
+5beta-dihydrodeoxycorticosterone,isPrecursorToName,Tetrahydrodeoxycorticosterone
 "5beta-pregnan-21-ol-3,11,20-trione",isPrecursorToName,Cholesterol
 "5beta-Pregnane-17alpha,20alpha-diol-3,11-dione",isPrecursorToName,Pregnanetriolone
 "5beta-pregnan-21-ol-3,11,20-trione",isPrecursorToName,Isoprogesterone
@@ -349,8 +349,8 @@ Corticosterone,secretedBy,Zona glomerulosa
 Testosterone,secretedBy,Leydig cells
 Estriol,secretedBy,Leydig cells
 18-hydroxycortisol,secretedBy,Zona glomerulosa
-Androstenedione,secretedBy,Leydig cells
 Dehydroepiandrosterone,secretedBy,Leydig cells
+Androstenedione,secretedBy,Leydig cells
 11-Deoxycortisol,secretedBy,Zona fasciculata
 Testosterone,secretedBy,Theca cells
 18-hydroxycortisol,secretedBy,Zona fasciculata
