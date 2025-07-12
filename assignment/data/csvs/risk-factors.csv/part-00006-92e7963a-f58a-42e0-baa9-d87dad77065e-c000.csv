@@ -1,0 +1,16 @@
+MasterId,Phenotypes,Count
+169,"[\"Smoker\",\"MediumWaistToHipRatio\",\"PreHyperBP\"]",3
+185,"[\"HighWaistToHipRatio\"]",1
+247,"[\"MediumWaistToHipRatio\"]",1
+303,"[\"BMIOverweight\",\"HighWaistToHipRatio\"]",2
+353,"[\"MediumWaistToHipRatio\"]",1
+525,"[\"BMIOverweight\"]",1
+553,"[\"BMIOverweight\",\"PreHyperBP\",\"HighWaistToHipRatio\"]",3
+645,"[\"Smoker\"]",1
+721,"[\"Smoker\"]",1
+793,"[\"BMIOverweight\",\"PreHyperBP\"]",2
+795,"[\"Smoker\"]",1
+803,"[\"Smoker\",\"HighWaistToHipRatio\"]",2
+869,"[\"BMIOverweight\",\"PreHyperBP\",\"HighWaistToHipRatio\"]",3
+929,"[\"HighWaistToHipRatio\"]",1
+5033,"[\"HyperStage1BP\"]",1

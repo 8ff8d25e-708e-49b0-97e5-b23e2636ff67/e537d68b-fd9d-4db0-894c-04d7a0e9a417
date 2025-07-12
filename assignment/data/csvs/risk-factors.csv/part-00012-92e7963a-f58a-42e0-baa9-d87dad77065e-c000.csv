@@ -1,0 +1,15 @@
+MasterId,Phenotypes,Count
+73,"[\"MediumWaistToHipRatio\"]",1
+307,"[\"BMIOverweight\",\"MediumWaistToHipRatio\"]",2
+333,"[\"HighWaistToHipRatio\"]",1
+447,"[\"BMIOverweight\",\"PreHyperBP\",\"HighWaistToHipRatio\"]",3
+487,"[\"HighWaistToHipRatio\"]",1
+659,"[\"HyperStage1BP\"]",1
+771,"[\"PreHyperBP\"]",1
+823,"[\"BMIOverweight\",\"PreHyperBP\",\"HighWaistToHipRatio\"]",3
+4983,"[\"PreHyperBP\"]",1
+4993,"[\"PreHyperBP\"]",1
+4999,"[\"PreHyperBP\"]",1
+5031,"[\"HighWaistToHipRatio\"]",1
+5037,"[\"HyperStage1BP\"]",1
+5073,"[\"MediumWaistToHipRatio\"]",1
