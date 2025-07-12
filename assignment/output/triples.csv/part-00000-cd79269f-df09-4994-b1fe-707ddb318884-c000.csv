@@ -1,0 +1,179 @@
+Precursor,_c1,Metabolite
+Cyst and pseudocyst,isEtiologyOf,Other benign mass
+Primary aldosteronism,isEtiologyOf,Adrenocortical adenoma or macronodular bilateral adrenal hyperplasia
+Hemorrhage,isEtiologyOf,Other benign mass
+Myelolipoma,isEtiologyOf,Other benign mass
+Overt Cushing’s syndrome,isEtiologyOf,Adrenocortical adenoma or macronodular bilateral adrenal hyperplasia
+Ganglioneuroma,isEtiologyOf,Other benign mass
+Nonfunctioning,isEtiologyOf,Adrenocortical adenoma or macronodular bilateral adrenal hyperplasia
+Mild autonomous cortisol  secretion,isEtiologyOf,Adrenocortical adenoma or macronodular bilateral adrenal hyperplasia
+Schwannoma,isEtiologyOf,Other benign mass
+Addison's disease,mayCauseUnderProductionOf,20beta-hydroxycortisol
+Addison's disease,mayCauseUnderProductionOf,beta-cortolone
+Addison's disease,mayCauseUnderProductionOf,Oestradiol
+Addison's disease,mayCauseUnderProductionOf,"3alpha,11beta,18,21-tetrahydroxy-5beta-pregnan-20-one"
+Addison's disease,mayCauseUnderProductionOf,"5beta-pregnane-11beta,17alpha,20beta,21-tetrol-3-one"
+Addison's disease,mayCauseUnderProductionOf,Pregnenolone
+Addison's disease,mayCauseUnderProductionOf,Aldosterone
+Addison's disease,mayCauseUnderProductionOf,5alpha-Tetrahydrocortisol
+Addison's disease,mayCauseUnderProductionOf,11-deoxycorticosterone
+Addison's disease,mayCauseUnderProductionOf,5beta-Dihydrocorticosterone
+Addison's disease,mayCauseUnderProductionOf,Tetrahydrocortisone
+Addison's disease,mayCauseUnderProductionOf,18-oxo-dihydrocortisol
+Addison's disease,mayCauseUnderProductionOf,5alpha-Dihydrocorticosterone
+Addison's disease,mayCauseUnderProductionOf,Pregnanetriolone
+Addison's disease,mayCauseUnderProductionOf,20alpha-Hydroxycortisol
+Addison's disease,mayCauseUnderProductionOf,"5alpha-pregnane-3,20-dione"
+Addison's disease,mayCauseUnderProductionOf,18-oxo-tetrahydrocortisol
+Addison's disease,mayCauseUnderProductionOf,11-Ketoetiocholanolone
+Addison's disease,mayCauseUnderProductionOf,20beta-Dihydrocortisone
+Addison's disease,mayCauseUnderProductionOf,22R-Hydroxycholesterol
+Addison's disease,mayCauseUnderProductionOf,"11b, 21-Dihydroxy-3,20-5b-Pregnan-18-al"
+Addison's disease,mayCauseUnderProductionOf,17-hydroxypregnenolone
+Addison's disease,mayCauseUnderProductionOf,Cortolic acid
+Addison's disease,mayCauseUnderProductionOf,17-hydroxyprogesterone
+Addison's disease,mayCauseUnderProductionOf,Pregnenediol b
+Addison's disease,mayCauseUnderProductionOf,Dihydrotestosterone
+Addison's disease,mayCauseUnderProductionOf,Tetrahydroaldosterone
+Addison's disease,mayCauseUnderProductionOf,3a-OH-5b-Pregnane-20-one
+Addison's disease,mayCauseUnderProductionOf,"20R,22R-dihydroxycholesterol"
+Addison's disease,mayCauseUnderProductionOf,18-oxocortisol
+Addison's disease,mayCauseUnderProductionOf,11-Dehydrocorticosterone
+Addison's disease,mayCauseUnderProductionOf,Cortisone
+Addison's disease,mayCauseUnderProductionOf,Pregnanediol-3-glucuronide
+Addison's disease,mayCauseUnderProductionOf,5alpha-Dihydrocortisol
+Addison's disease,mayCauseUnderProductionOf,beta-cortolonic acid
+Addison's disease,mayCauseUnderProductionOf,Progesterone
+Addison's disease,mayCauseUnderProductionOf,alpha-cortolone
+Addison's disease,mayCauseUnderProductionOf,18-hydroxycorticosterone
+Addison's disease,mayCauseUnderProductionOf,20alpha-Hydroxyprogesterone
+Addison's disease,mayCauseUnderProductionOf,21-Deoxycortisone
+Addison's disease,mayCauseUnderProductionOf,20alpha-Dihydrocortisone
+Addison's disease,mayCauseUnderProductionOf,"5beta-pregnane-17alpha,20alpha,21-triol-3,11-dione"
+Addison's disease,mayCauseUnderProductionOf,18-Hydroxy-11-dehydrotetrahydrocorticosterone
+Addison's disease,mayCauseUnderProductionOf,3alpha-hydroxy-5beta-pregnan-20-one
+Addison's disease,mayCauseUnderProductionOf,Testosterone
+Addison's disease,mayCauseUnderProductionOf,"5beta-pregnane-17alpha,20beta,21-triol-3,11-dione"
+Addison's disease,mayCauseUnderProductionOf,21-deoxycortisol
+Addison's disease,mayCauseUnderProductionOf,Tetrahydrocorticosterone
+Addison's disease,mayCauseUnderProductionOf,5beta-Dihydroaldosterone
+Addison's disease,mayCauseUnderProductionOf,Pregnanediol
+Addison's disease,mayCauseUnderProductionOf,alpha-Cortol
+Addison's disease,mayCauseUnderProductionOf,"17alpha-hydroxy-5beta-Pregnane-3,11,20-trione"
+Addison's disease,mayCauseUnderProductionOf,beta-cortolic acid
+Addison's disease,mayCauseUnderProductionOf,Allotetrahydrocorticosterone
+Addison's disease,mayCauseUnderProductionOf,Glucuronides
+Addison's disease,mayCauseUnderProductionOf,5beta-dihydrocortisol
+Addison's disease,mayCauseUnderProductionOf,"3a,11b,21-Trihydroxy-20-Oxo-5b-Pregnan-18-al"
+Addison's disease,mayCauseUnderProductionOf,Cortisol
+Addison's disease,mayCauseUnderProductionOf,11beta-Hydroxyetiocholanolone
+Addison's disease,mayCauseUnderProductionOf,"4,5beta-Dihydrocortisone"
+Addison's disease,mayCauseUnderProductionOf,Cortolonic acid
+Addison's disease,mayCauseUnderProductionOf,Isoprogesterone
+Addison's disease,mayCauseUnderProductionOf,"4-Pregnene-17alpha,20alpha-diol-3,11-dione"
+Addison's disease,mayCauseUnderProductionOf,Tetrahydrocortisol
+Addison's disease,mayCauseUnderProductionOf,5beta-dihydrodeoxycorticosterone
+Addison's disease,mayCauseUnderProductionOf,"11β,18,21-trihydroxy-5β-pregnan-3,20-dione"
+Addison's disease,mayCauseUnderProductionOf,"5beta-Pregnane-17alpha,20alpha-diol-3,11-dione"
+Addison's disease,mayCauseUnderProductionOf,Corticosterone
+Addison's disease,mayCauseUnderProductionOf,18-hydroxycortisol
+Addison's disease,mayCauseUnderProductionOf,11-Deoxycortisol
+Addison's disease,mayCauseUnderProductionOf,"11b,17a 21-Trihydroxy-5bPregnane 3,20-dione"
+Addison's disease,mayCauseUnderProductionOf,beta-cortol
+Addison's disease,mayCauseUnderProductionOf,Dehydroepiandrosterone
+Addison's disease,mayCauseUnderProductionOf,Androstenedione
+Addison's disease,mayCauseUnderProductionOf,"5beta-Pregnane-3alpha,17alpha-diol-11,20-dione"
+Addison's disease,mayCauseUnderProductionOf,Aldosterone 18-glucuronide
+Addison's disease,mayCauseUnderProductionOf,Pregnenetriol
+Addison's disease,mayCauseUnderProductionOf,"5beta-pregnane-3,20-dione"
+dopamine,secretedBy,Gastro Intest
+Estradiol,secretedBy,Adrenal Gland
+norepinephrine,secretedBy,Brain
+Epitestosterone,secretedBy,Ovary
+Estriol,secretedBy,Placenta
+Testosterone,secretedBy,Adrenal Gland
+17-hydroxyprogesterone,secretedBy,Ovary
+dopamine,secretedBy,Hypthalamus
+Estrone,secretedBy,Adrenal Gland
+Estradiol,secretedBy,Ovary
+Estrone,secretedBy,Ovary
+Estrone,secretedBy,Testes
+Epitestosterone,secretedBy,Adrenal Gland
+Estradiol,secretedBy,Testes
+17-hydroxyprogesterone,secretedBy,Testes
+17-hydroxyprogesterone,secretedBy,Placenta
+Epitestosterone,secretedBy,Testes
+norepinephrine,secretedBy,Nervous system
+Progesterone,secretedBy,Ovary
+Progesterone,secretedBy,Testes
+Chromaffin cells,partOf,Adrenal medulla
+L cells,partOf,Ileum
+Lactotrophs of anterior pituitary,partOf,Anterior pituatory
+Pancreatic β-cells,partOf,Islets of Langerhans
+Thyrotropes,partOf,Anterior pituatory
+Zona fasciculata,partOf,Adrenal cortex
+Beta cells of Islets of Langerhans,partOf,Islets of Langerhans
+Thyroid follicular cell,partOf,Peripheral tissue
+Cardiac myocytes,partOf,Cardiac muscle
+PP cells,partOf,Islets of Langerhans
+Parathyroid chief cell,partOf,Parathyroid
+Parvocellular neurosecretory neurons,partOf,Posteria pituatory
+Alpha cells of Islets of Langerhans,partOf,Islets of Langerhans
+Zona glomerulosa,partOf,Adrenal cortex
+Zona reticularis,partOf,Adrenal cortex
+Magnocellular neurosecretory cells,partOf,Posteria pituatory
+Myocytes,partOf,Muscle
+Delta cells in islets,partOf,Islets of Langerhans
+Adipocytes,partOf,Adipose tissue
+Somatotropes,partOf,Anterior pituatory
+Parafollicular cell,partOf,Thyroid
+Corticotrope,partOf,Anterior pituatory
+Gonadotropes,partOf,Anterior pituatory
+Neuroendocrince cells,partOf,Periventricular nucleus
+Progesterone,secretedBy,Adrenal cortex
+norepinephrine,secretedBy,Adrenal medulla
+dopamine,secretedBy,Substantia nigra
+dopamine,secretedBy,Ventral Tegmental Area
+Jejunum,partOf,Small Intestine
+Gastric Mucosa,partOf,Stomach
+Substantia nigra,partOf,Brain
+Islets of Langerhans,partOf,Pancreas
+Adrenal cortex,partOf,Adrenal Gland
+Thyroid,partOf,Thyroid
+Ventral Tegmental Area,partOf,Brain
+Periventricular nucleus,partOf,Hypthalamus
+Ileum,partOf,Small Intestine
+Posteria pituatory,partOf,Pituitary gland
+Anterior pituatory,partOf,Pituitary gland
+Corpus luteum,partOf,Ovary
+Peripheral tissue,partOf,Thyroid
+Pars intermedia,partOf,Pituitary gland
+Suprachiasmatic nuclei,partOf,Hypthalamus
+Small Intestine Mucosa,partOf,Small Intestine
+Parathyroid,partOf,Thyroid
+Cerebral cortex,partOf,Skin
+Adrenal medulla,partOf,Adrenal Gland
+Cardiac muscle,partOf,Heart
+Cortisol,secretedBy,Zona fasciculata
+18-hydroxycorticosterone,secretedBy,Zona glomerulosa
+Dehydroepiandrosterone,secretedBy,Theca cells
+Testosterone,secretedBy,Leydig cells
+Corticosterone,secretedBy,Zona glomerulosa
+Estriol,secretedBy,Leydig cells
+18-hydroxycortisol,secretedBy,Zona glomerulosa
+Androstenedione,secretedBy,Leydig cells
+Dehydroepiandrosterone,secretedBy,Leydig cells
+11-Deoxycortisol,secretedBy,Zona fasciculata
+Progesterone,secretedBy,Leydig cells
+Dehydroepiandrosterone,secretedBy,Zona reticularis
+18-hydroxycortisol,secretedBy,Zona fasciculata
+Testosterone,secretedBy,Theca cells
+17-hydroxyprogesterone,secretedBy,Zona fasciculata
+21-deoxycortisol,secretedBy,Zona fasciculata
+epinephrine,secretedBy,Chromaffin cells
+Aldosterone,secretedBy,Zona glomerulosa
+Androstenedione,secretedBy,Theca cells
+Androstenedione,secretedBy,Zona reticularis
+Dehydroepiandrosterone sulfate,secretedBy,Zona reticularis
+Cortisone,secretedBy,Zona fasciculata
+18-oxocortisol,secretedBy,Zona glomerulosa
